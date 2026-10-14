@@ -239,7 +239,7 @@ const Game = () => {
           <h2 className="mb-3 text-3xl font-bold">Snake Game</h2>
           <p className="mb-1">High score: {highScore}</p>
           <p className="mb-5 text-sm text-gray-400">
-            Swipe anywhere or use the arrow buttons to steer.
+            Swipe anywhere or use the arrow buttons to play.
           </p>
           <button
             onClick={() => setGameStarted(true)}
